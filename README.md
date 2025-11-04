@@ -32,6 +32,9 @@ This repository contains executive summaries of my learning across key data modu
 ### ✅ Data Governance & Compliance
 - Studied GDPR, Data Protection Act, FOI, Computer Misuse Act  
 - Understood importance of secure and ethical data handling  
+![Excel 1](https://github.com/user-attachments/assets/56d84158-5b37-421c-89be-9188af86cb84)
+![Excel 2](https://github.com/user-attachments/assets/3499cfb8-0e31-4ef2-9c1c-82ef9424e0a6)
+![Excel 3](https://github.com/user-attachments/assets/51e68245-f342-4719-9d03-d8764bcc9758)
 
 ---
 
@@ -45,6 +48,7 @@ This repository contains executive summaries of my learning across key data modu
   - Data loading & transformation  
   - Report design  
   - Dashboard creation  
+<img width="706" height="586" alt="Spotify Tableau" src="https://github.com/user-attachments/assets/4835ca16-9b53-42df-92a9-7865b830d6ed" />
 
 ---
 
@@ -77,6 +81,7 @@ This repository contains executive summaries of my learning across key data modu
 - Recommended Azure tools (SQL DB, Blob Storage, Synapse, Data Factory, Power BI)  
 - Practiced cloud data migration & encryption concepts  
 - Completed DP-900 practice exam  
+<img width="1638" height="1046" alt="Azure - IaaS-v PaaS-SaaS (source - RedHat)" src="https://github.com/user-attachments/assets/bc63e9b4-7f2b-4824-be5f-291e47d22743" />
 
 ---
 
