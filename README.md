@@ -100,7 +100,9 @@ This repository contains executive summaries of my learning across key data modu
 - Exported cleaned datasets to CSV  
 - Analyzed student & global GDP datasets
 <img <img width="1152" height="648" alt="Python_Scatter_Plot" src="https://github.com/user-attachments/assets/5d91cead-3d47-417e-a3c6-1237ed625740" />
-width="1152" height="754" alt="Python_Boxplot_and_code" src="https://github.com/user-attachments/assets/c8616393-c6f1-4cae-8f77-24d9f3860884" />
+
+<img width="1152" height="648" alt="Python_Scatter_Plot" src="https://github.com/user-attachments/assets/f61911cf-5205-4d3c-9ce2-8d20ddef3c92" />
+
 ---
 
 ## 📎 Summary
