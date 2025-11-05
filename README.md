@@ -66,6 +66,9 @@ This repository contains executive summaries of my learning across key data modu
   - Aggregate data using `COUNT`, `MIN`, `MAX`, `AVG`, `GROUP BY`  
 - Queried the World DB dataset for real insights  
 - Strengthened analytical SQL capability  
+<img width="1773" height="802" alt="MySQL_Capital_city_population_comparison" src="https://github.com/user-attachments/assets/adcebc3a-5d1c-4134-857b-6f881c8e08d7" />
+<img width="1152" height="798" alt="MySQL_population_density" src="https://github.com/user-attachments/assets/a5d71a7b-81ea-427a-b59b-b95e181a7953" />
+
 ---
 
 ## ☁️ Azure Cloud Fundamentals
@@ -82,6 +85,8 @@ This repository contains executive summaries of my learning across key data modu
 - Practiced cloud data migration & encryption concepts  
 - Completed DP-900 practice exam  
 <img width="1638" height="1046" alt="Azure - IaaS-v PaaS-SaaS (source - RedHat)" src="https://github.com/user-attachments/assets/bc63e9b4-7f2b-4824-be5f-291e47d22743" />
+<img width="1679" height="684" alt="Azure_Data_Analytics" src="https://github.com/user-attachments/assets/8aef5989-5d6a-4326-af11-dbe55a32faed" />
+
 ---
 
 ## 🐍 Python & Data Handling Learning
