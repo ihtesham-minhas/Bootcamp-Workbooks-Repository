@@ -32,10 +32,9 @@ This repository contains executive summaries of my learning across key data modu
 ### ✅ Data Governance & Compliance
 - Studied GDPR, Data Protection Act, FOI, Computer Misuse Act  
 - Understood importance of secure and ethical data handling  
-![Excel 1](https://github.com/user-attachments/assets/56d84158-5b37-421c-89be-9188af86cb84)
-![Excel 2](https://github.com/user-attachments/assets/3499cfb8-0e31-4ef2-9c1c-82ef9424e0a6)
-![Excel 3](https://github.com/user-attachments/assets/51e68245-f342-4719-9d03-d8764bcc9758)
-
+![Excel 2](https://github.com/user-attachments/assets/5efe9c94-6386-4f6b-9735-1fc7cc29af93)
+<img width="552" height="164" alt="Excel_Pivot_Table" src="https://github.com/user-attachments/assets/25766bc4-9f71-4ea5-9c30-570fca59e424" />
+<img width="359" height="214" alt="Excel_Pivot_Chart" src="https://github.com/user-attachments/assets/f1df70d8-752f-49a1-bc56-ce1589886ed3" />
 ---
 
 ## 📈 Tableau & Power BI Learning
@@ -48,8 +47,8 @@ This repository contains executive summaries of my learning across key data modu
   - Data loading & transformation  
   - Report design  
   - Dashboard creation  
-<img width="706" height="586" alt="Spotify Tableau" src="https://github.com/user-attachments/assets/4835ca16-9b53-42df-92a9-7865b830d6ed" />
-
+![%Change_sub-industry_Tableau](https://github.com/user-attachments/assets/3aaf1c2e-bf5c-465f-a3bc-35fe4356eb9b)
+![Map_%Change_Tableau](https://github.com/user-attachments/assets/6122d359-41a8-4da2-a13e-1f8d20888d4b)
 ---
 
 ## 📂 SQL Learning
@@ -65,7 +64,6 @@ This repository contains executive summaries of my learning across key data modu
   - Aggregate data using `COUNT`, `MIN`, `MAX`, `AVG`, `GROUP BY`  
 - Queried the World DB dataset for real insights  
 - Strengthened analytical SQL capability  
-
 ---
 
 ## ☁️ Azure Cloud Fundamentals
@@ -82,7 +80,6 @@ This repository contains executive summaries of my learning across key data modu
 - Practiced cloud data migration & encryption concepts  
 - Completed DP-900 practice exam  
 <img width="1638" height="1046" alt="Azure - IaaS-v PaaS-SaaS (source - RedHat)" src="https://github.com/user-attachments/assets/bc63e9b4-7f2b-4824-be5f-291e47d22743" />
-
 ---
 
 ## 🐍 Python & Data Handling Learning
@@ -100,7 +97,6 @@ This repository contains executive summaries of my learning across key data modu
 - Built pivot tables & custom grading logic  
 - Exported cleaned datasets to CSV  
 - Analyzed student & global GDP datasets  
-
 ---
 
 ## 📎 Summary
