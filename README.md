@@ -49,6 +49,8 @@ This repository contains executive summaries of my learning across key data modu
   - Dashboard creation  
 ![%Change_sub-industry_Tableau](https://github.com/user-attachments/assets/3aaf1c2e-bf5c-465f-a3bc-35fe4356eb9b)
 ![Map_%Change_Tableau](https://github.com/user-attachments/assets/6122d359-41a8-4da2-a13e-1f8d20888d4b)
+<img width="1170" height="662" alt="Spotify_Power BI" src="https://github.com/user-attachments/assets/3ff1036f-dba0-4b51-8a4e-9699c5b3187a" />
+
 ---
 
 ## 📂 SQL Learning
@@ -96,7 +98,9 @@ This repository contains executive summaries of my learning across key data modu
 - Grouped & aggregated records  
 - Built pivot tables & custom grading logic  
 - Exported cleaned datasets to CSV  
-- Analyzed student & global GDP datasets  
+- Analyzed student & global GDP datasets
+<img <img width="1152" height="648" alt="Python_Scatter_Plot" src="https://github.com/user-attachments/assets/5d91cead-3d47-417e-a3c6-1237ed625740" />
+width="1152" height="754" alt="Python_Boxplot_and_code" src="https://github.com/user-attachments/assets/c8616393-c6f1-4cae-8f77-24d9f3860884" />
 ---
 
 ## 📎 Summary
